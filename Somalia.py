@@ -58,7 +58,7 @@ if submit and email == actual_email and password == actual_password:
     with col3:
         st.write("[Poverty - الفقر](https://docs.google.com/spreadsheets/d/1gFCvElIqpfyu9a1PkagtPNaQ1jX49UIu/edit?usp=drive_link&ouid=111028980933962818091&rtpof=true&sd=true)")
     with col4:
-        st.write("[Education - التعليم](https://docs.google.com/spreadsheets/d/1gFCvElIqpfyu9a1PkagtPNaQ1jX49UIu/edit?usp=drive_link&ouid=111028980933962818091&rtpof=true&sd=true)")
+        st.write("[Education - التعليم](https://docs.google.com/spreadsheets/d/1AEyqZrCB_VpHBiffL9zHpH203ciBPfka/edit?usp=sharing&ouid=111028980933962818091&rtpof=true&sd=true)")
     with col5:
         st.write("[Culture - الثقافة](https://docs.google.com/spreadsheets/d/1K2SFVvA_wkMeu-R5oVxtmO7T7WHofpcu/edit?usp=drive_link&ouid=111028980933962818091&rtpof=true&sd=true)")
     with col6:
